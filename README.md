@@ -1,5 +1,5 @@
 # QR-Code-generator
-A very simple python project, creating QR-Code for the websites aleady given in code
+A very simple python project, creating QR-Code for the websites already given in code
 Firstly i installed pyqrcode and pypng from terminal by using:
 i)pip install pyqrcode
 ii)pip install pypng
